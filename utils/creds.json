@@ -1,13 +1,13 @@
 {
     "type": "service_account",
-    "project_id": "imagegen-54a5f",
-    "private_key_id": "2fae118e3c57d96a13a4d32939d60efc7510dc73",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnWkQNkve05JAO\ng1ZkX9qAWfN5lAF8fZ1KwLCCFpkfd9e8fETy1/ltCSvSxGD+w4zhb4KDj98efkQ7\nuWKnJW4ngeDPoABtn1FTZCMPcHC4BZ84RzRgGwWVlmYOcfj4o/zw0CAEtzrJLghL\nk1xz9ktLKSkyWOEtV2MHAnNwooCq2Xt3UmXGuB0aYcoekmVwRW1RGGyF1Py48yME\nKJE8L/+npqxRzFDeqwWIcFCHpdfXU0/Fo5xjbP9HtHNX4Ttl4iiXV1kbE3m8wWbx\nF1/MBK55cwgEBWoMnuwLM+9He4vpFa0rPi4IuUv7p6UtOEZh75MQZIREUcMXz+Iv\nHS0gEKTBAgMBAAECggEAOiwxbbqBqnqs7K6Q0FFVhbo+3SsqnRiZHYv/jyjFz198\nOYPE/9k9Vb6TYi9rPAPDq/V0G8FeIJ5pn40gktN7B/aoq+OFYpW30lIDsfE27XDe\n2NQ/i4y5Ezd1gF3z2pI+cYMXLix3HcmHjqXJxHF/2L+VF3A3zegLfztF34hNS5W/\nUpChuzCLUgwAUr2ZE2z5FI3M3uE+fdT6q0RgqHf+KugLvBEDtMO0HS1ciKoRWujj\narKb7ku9XiSR4gAwa4Gb7DXKPfzyxrJyjeUH1TP2GbLWyBpmB7pMAeN0pS2ITYfr\nWhEdM1wkXL4H2qpkdoFGkn6WV9eIRP4vRiLSZb8ndQKBgQC9Y22wrT1/T/Cra/+G\niSmQU6pM8/Y/P3ACi6Yx+vulWPK7OoH+ly2EsjWcYpaIEkfg8Cjxe9Yb9YOpM6wt\nKBqBib80GpYSOfUGibY0uBbgQ/y/ek4SIfV/NnSWlTfaPsj5YMLCQI0H9uld+Ds2\nWv1nMqGbLMKUMYr9gZ/kuD/uvwKBgQDiNrrd+7r6ibXsLUxyoTviXeTGTZ+0h1+5\nKYg0hT1nKghiRe2xm+D3mGsHJOguwR68NVKtgGZVtU4ynAUcrHIhf4uNtB48tiai\nAQ5fuPyXLtUn1nGAUzYTaaZFDrOaKsNzGOFl0h07roC2eOTBLNpQO7F7qxXz10MU\nv3IbWSfMfwKBgA9Gg8RqVLl+EyVgcp3BVm7jsKrASq5TSY+K//6sBbwSbpGXaIDG\nZM99KEHS2d1jzBRiiorfuCdNKC9vkYWa5HhqSdfEBTK3JgI+/UlHR+ES2sH+9WkV\nAB4goEq9AmJCCifDHDJazoVD7xK7QNtjf2jhdpNzisY1MMa9u83Q5qc1AoGALXnh\nMTUlDq7Wksc8giLlvgkwL6l1PL6mQLwXtK9Ae9fYXaE/OqBipoPOqF4ECzopqp5x\no42XhQ1wzf3NjUkhnJhefrtCBOR9eb4KnLW8mcwBcAPNR4Xy7g4kLefZtVl5d07+\nKREHbXMUTxqYqjkRHmYRtRHc1OtmgepGzzaqKJMCgYEAm9WEpXVcNSnUy8iwyPyM\n4ZxFacx+2Pz62YPOxdFFchP9kHiLf2JnfBZP3hDDCz+Vgc+yq5uMlELkoX+6qqws\nvALcnvfr+1zHN87Hca6Iv794/qCMD7fcxOMS1eOSE2hkwMH6KFayq/K+idmBTkhy\nU9FPthQYskxHC28vzEHq0GM=\n-----END PRIVATE KEY-----\n",
-    "client_email": "firebase-adminsdk-wy913@imagegen-54a5f.iam.gserviceaccount.com",
-    "client_id": "108819348836381737998",
+    "project_id": "dummy-project",
+    "private_key_id": "dummy-private-key-id",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nDUMMY-PRIVATE-KEY\n-----END PRIVATE KEY-----\n",
+    "client_email": "dummy-email@dummy-project.iam.gserviceaccount.com",
+    "client_id": "123456789012345678901",
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
     "token_uri": "https://oauth2.googleapis.com/token",
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wy913%40imagegen-54a5f.iam.gserviceaccount.com",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dummy-email%40dummy-project.iam.gserviceaccount.com",
     "universe_domain": "googleapis.com"
-  }
+}
